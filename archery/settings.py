@@ -76,6 +76,7 @@ TIME_ZONE = 'Asia/Shanghai'
 USE_I18N = True
 
 USE_TZ = False
+# USE_TZ = True
 
 # 时间格式化
 USE_L10N = False
